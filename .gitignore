@@ -1,0 +1,10 @@
+ # JUCE specific ignores
+Builds/
+JuiceLibraryCode/
+
+# macOS specific ignores
+.DS_Store
+
+# Windows specific ignores
+Thumbs.db
+
