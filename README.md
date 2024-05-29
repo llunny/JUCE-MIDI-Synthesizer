@@ -5,7 +5,7 @@
 ### Video Recording
 Here is a video demo of the synth in action:
 
-[![Watch the video](https://img.youtube.com/vi/j1Sum-TsZz8/maxresdefault.jpg)](https://youtu.be/j1Sum-TsZz8)
+[![Watch the video](https://img.youtube.com/vi/aIrw4EO65Og/maxresdefault.jpg)](https://www.youtube.com/watch?v=aIrw4EO65Og)
 
 ## Description
 
