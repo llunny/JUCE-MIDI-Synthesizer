@@ -1,14 +1,11 @@
- # JUCE MIDI Synth
+# JUCE MIDI Synth
 
 ## Demo
 
 ### Video Recording
 Here is a video demo of the synth in action:
 
-<video width="640" height="480" controls>
-  <source src="media/Recording 2024-05-28 164745.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/j1Sum-TsZz8/maxresdefault.jpg)](https://youtu.be/j1Sum-TsZz8)
 
 ## Description
 
@@ -24,12 +21,27 @@ This JUCE MIDI Synth is a virtual synthesizer built using the JUCE framework. It
 
 ## Installation
 
-1. Install Projucer: https://juce.com/download/
+1. **Install Projucer**: [https://juce.com/download/](https://juce.com/download/)
+2. **Install Ableton or Ableton Lite**: [https://www.ableton.com/en/products/live-lite/](https://www.ableton.com/en/products/live-lite/)
+3. **Download files and open as new project in Projucer**: [https://github.com/llunny/JUCE-MIDI-Synthesizer](https://github.com/llunny/JUCE-MIDI-Synthesizer)
+4. **Path VST3 to Ableton**
+5. **Launch Project and enjoy!**
 
-2. Install Ableton or Ableton Lite: https://www.ableton.com/en/products/live-lite/
+## Usage
 
-3. Download files and open as new project in Projucer: https://github.com/llunny/JUCE-MIDI-Synthesizer
+- Launch the synthesizer.
+- Use the GUI to modify oscillator waveforms, adjust ADSR envelope parameters, and experiment with FM synthesis settings.
+- Connect a MIDI keyboard or use a virtual keyboard to play sounds.
 
-4. Path VST3 to Ableton
+## Contributing
 
-5. Launch Project and enjoy!
+Contributions are welcome! Please fork this repository and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [JUCE](https://juce.com) for providing the framework.
+- Any other libraries or resources used.
