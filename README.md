@@ -1,5 +1,15 @@
  # JUCE MIDI Synth
 
+## Demo
+
+### Video Recording
+Here is a video demo of the synth in action:
+
+<video width="640" height="480" controls>
+  <source src="media/Recording 2024-05-28 164745.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Description
 
 This JUCE MIDI Synth is a virtual synthesizer built using the JUCE framework. It features custom oscillators, ADSR envelopes, and a fully functional audio processor. This project showcases advanced C++ programming and audio processing techniques.
